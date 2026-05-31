@@ -5,8 +5,8 @@ A full-stack machine learning web app that predicts house prices based on key pr
 ## 🚀 Live Demo
 > Screenshot:
 > Screenshots:
-![Hero Section](screenshot1.png)
-![Predictor Section](screenshot2.png)
+![Hero Section](Screenshot1.png)
+![Predictor Section](Screenshot2.png)
 
 ## 🧠 How It Works
 1. A **Random Forest model** is trained on 1,460 real homes from Ames, Iowa
