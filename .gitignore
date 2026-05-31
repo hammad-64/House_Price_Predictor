@@ -1,0 +1,25 @@
+# Data (too large for GitHub)
+data/
+
+# Trained model files (too large)
+model/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+env/
+
+# Frontend
+frontend/node_modules/
+
+# Jupyter checkpoints
+notebook/.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
